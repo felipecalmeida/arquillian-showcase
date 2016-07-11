@@ -1,4 +1,4 @@
-# Arquillian Showcase
+# Arquillian Showcase [![Build Status](https://travis-ci.org/felipecalmeida/arquillian-showcase.svg?branch=master)](https://travis-ci.org/felipecalmeida/arquillian-showcase)
 
 This repository contains a collection of tests that showcase Arquillian's capabilities. The test cases are organized into modules according to the technology that is being tested. For example, CDI tests are located in the cdi project, EJB tests in the ejb project and so on. The dependencies used in each of the projects are managed by the parent project.
 
